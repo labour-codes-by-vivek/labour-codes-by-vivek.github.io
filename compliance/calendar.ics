@@ -1,0 +1,124 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Labour Codes Library//Compliance calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Labour Codes Library: yearly compliance deadlines
+BEGIN:VEVENT
+UID:wages-returns@labour-codes-library
+DTSTAMP:20261104T151330Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+RRULE:FREQ=YEARLY;BYMONTH=2;BYMONTHDAY=-1
+SUMMARY:Due: Returns under the Code on Wages
+DESCRIPTION:File the returns under the Code on Wages electronically\, in 
+ the Forms under the OSH Code rule 48. The OSH annual return is in Form X
+ VII rule 74.\n\nWhen: The Wages Rules give no date of their own. The OSH
+  annual return must reach the Inspector-cum-Facilitator on or before the
+  last day of February following the end of each calendar year rule 74.\n
+ \nDetails: /compliance/wages-returns/\n\nOfficial text reproduced from t
+ he Gazette of India\, India Code and State Government sources. This is n
+ ot legal advice\; check the source PDF before relying on any provision.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:osh-annual-return@labour-codes-library
+DTSTAMP:20261104T151330Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+RRULE:FREQ=YEARLY;BYMONTH=2;BYMONTHDAY=-1
+SUMMARY:Due: Annual return to the Inspector-cum-Facilitator
+DESCRIPTION:Send an annual return in Form XVII\, covering the categories 
+ of employees\, health and welfare facilities\, retrenchment or lay-offs\
+ , bonus and maternity benefits\, to the Inspector-cum-Facilitator having
+  jurisdiction rule 74 s. 33(d).\n\nWhen: So that it reaches the Inspecto
+ r-cum-Facilitator on or before the last day of February following the en
+ d of each calendar year rule 74.\n\nDetails: /compliance/osh-annual-retu
+ rn/\n\nOfficial text reproduced from the Gazette of India\, India Code a
+ nd State Government sources. This is not legal advice\; check the source
+  PDF before relying on any provision.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:principal-employer-annual-return@labour-codes-library
+DTSTAMP:20261104T151330Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+RRULE:FREQ=YEARLY;BYMONTH=2;BYMONTHDAY=-1
+SUMMARY:Due: Principal employer's annual return on contract labour
+DESCRIPTION:Submit an annual return in Form XVII (Part III) electronicall
+ y to the authority and the Deputy Chief Labour Commissioner (Central) co
+ ncerned rule 98(9).\n\nWhen: So that it reaches them on or before the la
+ st day of February following the end of each calendar year rule 98(9).\n
+ \nDetails: /compliance/principal-employer-annual-return/\n\nOfficial tex
+ t reproduced from the Gazette of India\, India Code and State Government
+  sources. This is not legal advice\; check the source PDF before relying
+  on any provision.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:employment-information-return@labour-codes-library
+DTSTAMP:20261104T151330Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+RRULE:FREQ=YEARLY
+SUMMARY:Due: Employment information return
+DESCRIPTION:Furnish a yearly return in Form XXVI (Employment Information 
+ Return) to the Career Centre (Regional) concerned\, manually\, electroni
+ cally or digitally as the State Government notifies rule 56(6).\n\nWhen:
+  Within thirty days of the due date\, 31st March of the year rule 56(6).
+ \n\nDetails: /compliance/employment-information-return/\n\nOfficial text
+  reproduced from the Gazette of India\, India Code and State Government 
+ sources. This is not legal advice\; check the source PDF before relying 
+ on any provision.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ss-unified-annual-return@labour-codes-library
+DTSTAMP:20261104T151330Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+RRULE:FREQ=YEARLY;BYMONTH=2;BYMONTHDAY=-1
+SUMMARY:Due: Unified annual return
+DESCRIPTION:Upload a unified annual return in Form XXIII on the web porta
+ l of the Central Government in the Ministry of Labour and Employment\, w
+ ith the particulars specified for the preceding year rule 53(5)(a).\n\nW
+ hen: On or before the 28th or 29th day of February in each year rule 53(
+ 5)(a).\n\nDetails: /compliance/ss-unified-annual-return/\n\nOfficial tex
+ t reproduced from the Gazette of India\, India Code and State Government
+  sources. This is not legal advice\; check the source PDF before relying
+  on any provision.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contractor-half-yearly-return-h1@labour-codes-library
+DTSTAMP:20261104T151330Z
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+RRULE:FREQ=YEARLY
+SUMMARY:Due: Contractor's return in Form XVIII (half-year to 30 June)
+DESCRIPTION:Send a half-yearly return in Form XVIII electronically to the
+  Deputy Chief Labour Commissioner (Central) concerned rule 98(7).\n\nWhe
+ n: Not later than thirty days from the close of each half year\, January
+  to June and July to December rule 98(7).\n\nDetails: /compliance/contra
+ ctor-half-yearly-return/\n\nOfficial text reproduced from the Gazette of
+  India\, India Code and State Government sources. This is not legal advi
+ ce\; check the source PDF before relying on any provision.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contractor-half-yearly-return-h2@labour-codes-library
+DTSTAMP:20261104T151330Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+RRULE:FREQ=YEARLY
+SUMMARY:Due: Contractor's return in Form XVIII (half-year to 31 December)
+DESCRIPTION:Send a half-yearly return in Form XVIII electronically to the
+  Deputy Chief Labour Commissioner (Central) concerned rule 98(7).\n\nWhe
+ n: Not later than thirty days from the close of each half year\, January
+  to June and July to December rule 98(7).\n\nDetails: /compliance/contra
+ ctor-half-yearly-return/\n\nOfficial text reproduced from the Gazette of
+  India\, India Code and State Government sources. This is not legal advi
+ ce\; check the source PDF before relying on any provision.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

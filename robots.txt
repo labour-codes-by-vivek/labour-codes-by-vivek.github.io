@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://labour-codes-by-vivek.github.io/sitemap.xml
