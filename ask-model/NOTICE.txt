@@ -1,0 +1,11 @@
+Files for "Match better" on the Ask a question page. They run in the visitor's own browser, only if the visitor asks.
+
+model_q4f16.onnx, model_q4f16.onnx_data, vocab.txt
+  all-MiniLM-L6-v2, ONNX weights from https://huggingface.co/onnx-community/all-MiniLM-L6-v2-ONNX
+  based on https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2 (Apache License 2.0)
+
+ort.wasm.bundle.min.mjs, ort-wasm-simd-threaded.wasm
+  ONNX Runtime Web, the onnxruntime-web package, https://github.com/microsoft/onnxruntime (MIT License)
+
+vectors.bin, vectors.json
+  Made by this site from its own answers: npm run ask:vectors

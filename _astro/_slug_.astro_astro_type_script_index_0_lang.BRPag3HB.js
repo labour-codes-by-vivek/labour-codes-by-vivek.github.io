@@ -1,0 +1,1 @@
+import{t as e}from"./quiz-client.CwD3Jlfz.js";var t=document.querySelector(`.quiz`);if(t){let n=t.querySelectorAll(`.q`).length;e(t,{key:`learn:${t.dataset.slug}`,howto:`${n} questions. Choose an answer to check it at once: each answer shows the law’s own words and links to the provision.`})}
